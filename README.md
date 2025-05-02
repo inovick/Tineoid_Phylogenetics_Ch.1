@@ -5,6 +5,8 @@ Synanthropic species are those that live in close association with, or benefit f
 
 This repository contains the script needed to recreate any figures found in the publication (phylogenetic trees, ancestral state estimation), and contains a thoroughly documented workflow to guide users through the Phyluce pipeline (Faircloth et al. 2012, Faircloth et al. 2013), RaxML, and BEAST v.1. This workflow also includes components of IQtree2, SWSC-EN, and Mesquite v. 3.81.
 
+Raw data can be found at NCBI's Sequence Read Archive (BioProject PRJNA1257865).
+
 For any questions, please contact Isabel Novick (isabelnovick @ gmail.com)
 
 [![DOI](https://zenodo.org/badge/904878537.svg)](https://doi.org/10.5281/zenodo.15306210)
